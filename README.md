@@ -11,3 +11,6 @@ Sorted from toughest (top) to easiest (bottom):
 4. [Event Syncer](/event-syncer/)
 5. [Man in the middle](/man-in-the-middle/)
 6. [Custom Seriaizer](/custom-serializer/)
+
+## Solutions
+My solutions for all the challenges are in the `solves` branch of this repository.
